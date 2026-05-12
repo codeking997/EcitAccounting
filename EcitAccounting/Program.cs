@@ -1,5 +1,5 @@
-using System.Data;
-using EcitAccounting.Models;var builder = WebApplication.CreateBuilder(args);
+using EcitAccounting.Models;
+var builder = WebApplication.CreateBuilder(args);
 
 
 // Add services to the container.
