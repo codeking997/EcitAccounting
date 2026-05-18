@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcitAccounting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+312772388a28331301ac01cca83c555ca8809656")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4416914d2a6c1fad7a96ec13dd0f4e54008829fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcitAccounting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcitAccounting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

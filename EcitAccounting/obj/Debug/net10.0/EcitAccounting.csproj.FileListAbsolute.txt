@@ -31,3 +31,4 @@ C:\Users\CSoile\RiderProjects\EcitAccounting\EcitAccounting\obj\Debug\net10.0\re
 C:\Users\CSoile\RiderProjects\EcitAccounting\EcitAccounting\obj\Debug\net10.0\EcitAccounting.pdb
 C:\Users\CSoile\RiderProjects\EcitAccounting\EcitAccounting\obj\Debug\net10.0\EcitAccounting.genruntimeconfig.cache
 C:\Users\CSoile\RiderProjects\EcitAccounting\EcitAccounting\obj\Debug\net10.0\ref\EcitAccounting.dll
+C:\Users\CSoile\RiderProjects\EcitAccounting\EcitAccounting\obj\Debug\net10.0\EcitAccounting.sourcelink.json
